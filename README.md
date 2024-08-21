@@ -24,6 +24,9 @@
 
 <b><ins>Instructions:</ins></b>
 1. Train chatbot by running "python training.py"
+
+<code>python training.py</code>
+
 2. Activate chatbot by running "python chatbot.py"
 
 <br>
