@@ -29,6 +29,8 @@
 
 2. Activate chatbot by running "python chatbot.py"
 
+<code>python chatbot.py</code>
+
 <br>
 
 <b><ins>Example:</ins><b>
