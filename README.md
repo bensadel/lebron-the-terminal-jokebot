@@ -27,11 +27,3 @@
 
 2. Activate chatbot by running <code>python chatbot.py</code>
 
-<br>
-
-<b><ins>Example:</ins><b>
-
-<p align="center">
-  <img src="https://github.com/bensadel/Lebron-the-Jokebot/assets/95494769/49ccf207-49fd-40f5-8e4f-c8c3354823af">
-</p>
-
